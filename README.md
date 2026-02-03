@@ -54,25 +54,19 @@ Based on these checks, a score is calculated and the final result is displayed.
 ## 📂 Project Structure
 
 The screenshots below show how the project files and folders are organized.
-
 ### Structure View 1
-![Project Structure View 1](https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-1.png)
-
-This view shows the main project directory with important files like `app.py`, `templates`, and `static`.
+<img src="https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-1.png" width="800"/>
 
 ---
 
 ### Structure View 2
-![Project Structure View 2](https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-2.png)
-
-This screenshot highlights the `templates` and `static` folders used for frontend rendering and styling.
+<img src="https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-2.png" width="800"/>
 
 ---
 
 ### Structure View 3
-![Project Structure View 3](https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-3.png)
+<img src="https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-3.png" width="800"/>
 
-This view shows additional project files such as documentation and configuration files.
 
 ---
 
