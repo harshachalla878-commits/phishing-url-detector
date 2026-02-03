@@ -53,20 +53,18 @@ Based on these checks, a score is calculated and the final result is shown to th
 
 ## 📂 Project Structure (Screenshots)
 
-The following screenshots show the structure of the project files and folders used in this application.
-
 ### Structure View 1
-![Project Structure View 1](screenshots/structure-1.png)
+![Project Structure View 1](https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-1.png)
 
 
 ---
 
 ### Structure View 2
-![Project Structure View 2](screenshots/structure-2.png)
+![Project Structure View 2](https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-2.png)
 
 
 ---
 
 ### Structure View 3
-![Project Structure View 3](screenshots/structure-3.png)
+![Project Structure View 3](https://raw.githubusercontent.com/harshachalla878-commits/phishing-url-detector/main/screenshots/structure-3.png)
 
