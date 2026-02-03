@@ -58,18 +58,15 @@ The following screenshots show the structure of the project files and folders us
 ### Structure View 1
 ![Project Structure View 1](screenshots/structure-1.png)
 
-This view shows the main project directory with core files such as `app.py`, `templates`, and `static`.
 
 ---
 
 ### Structure View 2
 ![Project Structure View 2](screenshots/structure-2.png)
 
-This screenshot highlights the `templates` and `static` folders used for frontend rendering and styling.
 
 ---
 
-### fStructure View 3
+### Structure View 3
 ![Project Structure View 3](screenshots/structure-3.png)
 
-This view shows additional project files such as configuration and documentation files.
