@@ -69,7 +69,7 @@ This screenshot highlights the `templates` and `static` folders used for fronten
 
 ---
 
-### Structure View 3
+### fStructure View 3
 ![Project Structure View 3](screenshots/structure-3.png)
 
 This view shows additional project files such as configuration and documentation files.
