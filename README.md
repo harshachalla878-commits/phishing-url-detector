@@ -1,56 +1,54 @@
-# 🔐 AI-Based Phishing URL Detection System
+# 🔐 Phishing URL Detection System
 
-An AI-inspired cybersecurity web application that detects phishing websites by analyzing URL characteristics and classifying them as **Safe**, **Suspicious**, or **Phishing**.
+This project is a simple web application that checks whether a given website URL looks **safe**, **suspicious**, or **phishing** based on common phishing patterns.
 
-This project is built using **Python Flask** with rule-based AI logic and a simple, user-friendly interface.
-
----
-
-## 📌 Features
-
-- Analyze any website URL
-- Detect phishing patterns using URL features
-- Classify URLs into:
-  - ✅ Safe
-  - ⚠️ Suspicious
-  - 🚫 Phishing
-- Display risk score and reasons for classification
-- Clean and simple web interface
+The application is developed using **Python Flask** and basic rule-based logic. It is intended for learning and demonstration purposes.
 
 ---
 
-## 🧠 How It Works
+## 📖 About the Project
 
-The system extracts important features from the given URL, such as:
-- URL length
-- HTTPS usage
-- Presence of special characters (`@`, `-`)
-- IP address usage instead of domain
+Phishing websites try to trick users into giving sensitive information such as passwords, bank details, or OTPs.  
+This project helps in identifying such URLs by analyzing their structure.
 
-A rule-based AI scoring logic is applied to these features to determine the risk level of the URL.
+The system does **not use real-time internet scanning**.  
+Instead, it checks the URL format and applies logical rules to classify it.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- **Frontend:** HTML, CSS  
-- **Backend:** Python, Flask  
-- **AI Logic:** Rule-based inference  
-- **Tools:** Git, GitHub  
+- Enter any website URL
+- Detect common phishing indicators
+- Classifies URLs as:
+  - Safe
+  - Suspicious
+  - Phishing
+- Displays a risk score and reasons
+- Simple and clean user interface
+
+---
+
+## ⚙️ How It Works
+
+The application checks the URL for:
+- Length of the URL
+- HTTPS availability
+- Special characters like `@` and `-`
+- Use of IP address instead of domain name
+
+Based on these checks, a score is calculated and the final result is shown to the user.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- HTML
+- CSS
+- Git & GitHub
 
 ---
 
 ## 📂 Project Structure
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/harshachalla878-commits/phishing-url-detector.git
-   cd phishing-url-detector
-   pip3 install flask
-   python3 app.py
-   http://127.0.0.1:5000
-   http://paypal.com@login-secure.example
-   http://192.168.1.10/verify
-   http://secure-login-google.example
----
