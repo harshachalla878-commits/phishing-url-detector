@@ -52,12 +52,3 @@ Based on these checks, a score is calculated and the final result is shown to th
 ---
 
 ## 📂 Project Structure
-phishing-url-detector/
-│
-├── app.py
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-├── README.md
-└── .gitignore
