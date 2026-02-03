@@ -54,18 +54,3 @@ A rule-based AI scoring logic is applied to these features to determine the risk
    http://192.168.1.10/verify
    http://secure-login-google.example
 ---
-
-## 🎯 FINAL VERDICT
-- ✔ Your current README → **RIGHT**
-- ⭐ With the above additions → **EXCELLENT**
-- 🎓 Suitable for **college, resume, internships**
-
----
-
-### What do you want next?
-- ✅ “Update README and push”
-- 📸 “Add screenshots section”
-- 🧾 “Resume project points”
-- 🎓 “Viva questions & answers”
-
-Just tell me 👍
